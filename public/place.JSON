@@ -1,0 +1,92 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "name": "Sajek Valley",
+        "desc": "The name of Sajek Valley came from the Sajek River that originates from Karnafuli river. The Sajek river works as a border between Bangladesh and India",
+        "location": "Rangamati, Bangladesh",
+        "guide": "Shajib Gazi",
+        "guideContact": 8801953387415,
+        "cost": 300,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SajekSight_08.jpg/1280px-SajekSight_08.jpg"
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "name": "Satla Bill",
+        "desc": "North Satla village in Satla union of Ujirpur upazila, about 60 kilometers away from Barisal Sadar.",
+        "location": "Barisal, Bangladesh",
+        "guide": "Mehedi H Siam",
+        "guideContact": 8801953387415,
+        "cost": 350,
+        "img": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2020/09/30/img_3429.jpg?itok=7FHBor9X"
+    },
+    {
+        "key": "B01K1IO3QW",
+        "name": "Cox's Bazar",
+        "desc": "Cox’s Bazar is a town on the southeast coast of Bangladesh.",
+        "location": "Cox's Bazar, Bangladesh",
+        "guide": "Shajib Gazi",
+        "guideContact": 8801953387415,
+        "cost": 500,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cox%27s_Bazar_Sunset.JPG"
+    },
+    {
+        "key": "B01LD4MGY4",
+        "name": "Sent Martain",
+        "desc": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal,",
+        "location": "Teknaf, Cox'z Bazar, Bangladesh",
+        "guide": "Shajib Gazi",
+        "guideContact": 8801953387415,
+        "cost": 400,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Saint-martin%27s-island.JPG"
+    },
+    {
+        "key": "B01M18UZF5",
+        "name": "Kuya Kata",
+        "desc": "Kuakata is a town in southern Bangladesh known for its panoramic sea beach",
+        "location": "Patuakhali, Bangladesh",
+        "guide": "Mehedi Hasan Siam",
+        "guideContact": 8801953387415,
+        "cost": 200,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kuakata_beach.jpg"
+    },
+    {
+        "key": "B01DBGVB7K",
+        "name": "Chandranath Hill",
+        "desc": "Chandranath Hill is the eastern part of the Himalayas separated from the Himalayas",
+        "location": "Chittagong, Bangladesh",
+        "guide": "Shajib Gazi",
+        "guideContact": 8801953387415,
+        "cost": 150,
+        "img": "https://lh3.googleusercontent.com/proxy/lyTXoNwVi8yj58mn0C7eXHORoYZDnYz491f5b_bkeozZf-17-NNIqNdIgm8Jy0hXehzMhw4TrrMRa8ggn0FQdnpPHkL99L4RUXKvfJ2apGyeDWmTsYBtNUsA9uw"
+    },
+    {
+        "key": "B015WXL0C6",
+        "name": "Nikli Haor",
+        "desc": "The Nikli Haor is located in the Kishoreganj district. This time we will go to Bhairab by train then from Bhairab Ghat to Kishoreganj by launch.",
+        "location": "KishorGonj, Bangladesh",
+        "guide": "Shajib Gazi",
+        "guideContact": 8801953387415,
+        "cost": 400,
+        "img": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/1069486i32DF0816A9FA8504/image-size/large?v=v2&px=999"
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "name": "Jaflong",
+        "desc": "Jaflong is a hill station and tourist destination in the Division of Sylhet, Bangladesh.",
+        "location": "Sylhet, Bangladesh",
+        "guide": "Shajib Gazi",
+        "guideContact": 8801953387415,
+        "cost": 300,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Zero_Point_at_Zuflong.jpg"
+    },
+    {
+        "key": "B06XJJG4PD",
+        "name": "Bisnakandi",
+        "desc": "Bichnakandi, also known as Bisnakandi, is a village in Rustompur Union, Gowainghat Upazila of Bangladesh's Sylhet District.",
+        "location": "Sylhet, Bangladesh",
+        "guide": "Shajib Gazi",
+        "guideContact": 8801953387415,
+        "cost": 300,
+        "img": "https://www.travelmate.com.bd/wp-content/uploads/2020/02/Bishankandi-4.jpg"
+    }
+]

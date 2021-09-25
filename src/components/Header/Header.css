@@ -1,0 +1,14 @@
+.logo{
+    height: 30px;
+}
+
+.menu-header{
+    background-color: #404064;
+}
+
+.btn-a{
+    background-color: tomato;
+}
+.btn-a:hover{
+    background-color: white;
+}

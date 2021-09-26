@@ -1,0 +1,24 @@
+.banner{
+    background-image: url('./banner.jpg');
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+.company-name{
+    text-align: center;
+    text-transform: uppercase;
+}
+.headline{
+    color: white;
+    padding-top: 100px;
+}
+.company-name p{
+    font-weight: 500;
+    color: white;
+}
+.average{
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+}

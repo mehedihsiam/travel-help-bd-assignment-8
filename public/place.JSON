@@ -7,6 +7,7 @@
         "guide": "Shajib Gazi",
         "guideContact": 8801953387415,
         "cost": 300,
+        "guideFee": 100,
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SajekSight_08.jpg/1280px-SajekSight_08.jpg"
     },
     {
@@ -17,6 +18,7 @@
         "guide": "Mehedi H Siam",
         "guideContact": 8801953387415,
         "cost": 350,
+        "guideFee": 150,
         "img": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2020/09/30/img_3429.jpg?itok=7FHBor9X"
     },
     {
@@ -27,6 +29,7 @@
         "guide": "Shajib Gazi",
         "guideContact": 8801953387415,
         "cost": 500,
+        "guideFee": 200,
         "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cox%27s_Bazar_Sunset.JPG"
     },
     {
@@ -37,6 +40,7 @@
         "guide": "Shajib Gazi",
         "guideContact": 8801953387415,
         "cost": 400,
+        "guideFee": 120,
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Saint-martin%27s-island.JPG"
     },
     {
@@ -47,6 +51,7 @@
         "guide": "Mehedi Hasan Siam",
         "guideContact": 8801953387415,
         "cost": 200,
+        "guideFee": 100,
         "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kuakata_beach.jpg"
     },
     {
@@ -57,6 +62,7 @@
         "guide": "Shajib Gazi",
         "guideContact": 8801953387415,
         "cost": 150,
+        "guideFee": 170,
         "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/06/99/a3/view-from-chandranath.jpg"
     },
     {
@@ -67,6 +73,7 @@
         "guide": "Shajib Gazi",
         "guideContact": 8801953387415,
         "cost": 400,
+        "guideFee": 210,
         "img": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/1069486i32DF0816A9FA8504/image-size/large?v=v2&px=999"
     },
     {
@@ -77,6 +84,7 @@
         "guide": "Shajib Gazi",
         "guideContact": 8801953387415,
         "cost": 300,
+        "guideFee": 70,
         "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Zero_Point_at_Zuflong.jpg"
     },
     {
@@ -87,6 +95,7 @@
         "guide": "Shajib Gazi",
         "guideContact": 8801953387415,
         "cost": 300,
+        "guideFee": 200,
         "img": "https://www.travelmate.com.bd/wp-content/uploads/2020/02/Bishankandi-4.jpg"
     }
 ]

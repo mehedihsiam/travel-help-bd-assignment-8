@@ -1,22 +1,27 @@
 import React from 'react';
+import './Cart.css'
 
 const Cart = (props) => {
     console.log(props.booking)
     const { booking } = props;
-    let total = 0;
+    let eventFee = 0;
+    let guideFee = 0;
     for (const place of booking) {
-        total = total + place.cost;
+        eventFee = eventFee + place.cost;
+        guideFee = guideFee + place.guideFee;
     }
-    // for (const place of booking) {
-    //     name = name + ' ' + place.name;
-    // }
     return (
-        <div>
+        <div className="cart-style">
             <h5>Bokked Package: {props.booking.length}</h5>
             {
-                booking.map(place => <li>{place.name}</li>)
+                booking.map(place => <li className="list">{place.name}</li>)
             }
-            <p>Total Cost: {total}</p>
+            <hr />
+            <h6 className="l-align">Event Fee: ${eventFee}</h6>
+            <hr />
+            <h6 className="l-align">Guide Fee: ${guideFee}</h6>
+            <hr />
+            <h5 className="txt-color-a l-align">Total Cost: ${eventFee + guideFee}</h5>
         </div>
     );
 };

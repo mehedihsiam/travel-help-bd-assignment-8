@@ -18,7 +18,7 @@ const Header = () => {
                         <Navbar.Brand href="#blogs" className="text-white fs-6"> Blogs</Navbar.Brand>
                         <Navbar.Toggle />
                         <Navbar.Collapse className="justify-content-end">
-                            <Button className="btn btn-a">Live Chat</Button>
+                            <Button className="btn btn-a live-chat">Live Chat</Button>
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>

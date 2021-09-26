@@ -3,7 +3,9 @@
 }
 
 .menu-header{
-    background-color: #404064;
+    background-color: transparent;
+    position: absolute;
+    width: 100%;
 }
 
 .btn-a{

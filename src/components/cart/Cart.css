@@ -1,0 +1,17 @@
+.cart-style{
+    margin: 5px;
+    position: absolute;
+    top: 415px;
+    right: 50px;
+    background-color: rgba(252, 165, 150, 0.288);
+    padding: 40px;
+    border-radius: 20px;
+    border: 1px solid #404064;
+}
+.list{
+    list-style: none;
+    text-align: left;
+}
+.l-align{
+    text-align: left;
+}

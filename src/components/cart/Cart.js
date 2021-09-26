@@ -12,7 +12,7 @@ const Cart = (props) => {
     }
     return (
         <div className="cart-style">
-            <h5>Bokked Package: {props.booking.length}</h5>
+            <h5>Booked Package: {props.booking.length}</h5>
             {
                 booking.map(place => <li className="list">{place.name}</li>)
             }

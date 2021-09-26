@@ -21,7 +21,7 @@ const Place = (props) => {
                     <p><strong className="txt-color-a">Location:</strong> {location}</p>
                     <h6>Guide: {guide}</h6>
                     <h6>Contact: {guideContact} (Guide)</h6>
-                    <h5 className="txt-color-a">Total Cost: {cost}</h5>
+                    <h5 className="txt-color-a">Event Fee: ${cost}</h5>
                     <button
                         className="btn btn-b"
                         onClick={() => props.handleBooking(props.place)}
